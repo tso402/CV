@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January - April 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +34,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Southampton (September 2008 - July 2012)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Chemistry, specialising in Nano Particle Deposition Methods
+- Bsc 2:1
+- Southampton University Canoe Polo - President and 1st Team Captain
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**John Lewis Partnership** (October 2018 - Present)    
+*Product Engineer*  
+**John Lewis Partnership** (September 2014 - October 2018)   
+*Oracle Functional Analyst*  
+**John Lewis Partnership** (September 2012 - September 2014)   
+*Graduate Trainee* 
