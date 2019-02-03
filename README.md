@@ -6,32 +6,29 @@ I am looking for a role where I can apply my new skills and continue to develop 
 
 ## Skills
 
-#### This Skill
+During my most recent work as a Functional Analyst, I have lead the replatforming of an invoice matching system which required a number of skills to successfully deliver the project.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Problem Solving
 
-- Experience
-- Achievements
-- Evidence
+As this was the first time a replatforming of this application had been attempted in our company I was required analyse and plan the required activities which frequently changed as new information came to light
 
-#### Another Skill
+#### Cross Team Working
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Due to the nature of the replatform and the structure of our business I was required to quickly and effectively develop working relationships with teams ranging across the business from commercial to core IT and Infrastructure to allow delivery.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Taking The Inititive
+
+Having originally not been assigned to the replatforming project, I quickly contacted and convinced the project sponser that I was the right person to deliver when I heard that the project had run into difficulty in its initial stages.
+
+#### Taking Ownership
+
+Once I had been assigned to the project I quickly determined the areas where my previous experience was relevent while continuing to research and develop my understanding any tasks that were outside my unsual work.
 
 ## Education
 
 #### Makers Academy (February 2019 - April 2019)
 
 Intensive 12 Week Coding Bootcamp
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -55,6 +52,6 @@ Intensive 12 Week Coding Bootcamp
 
 ## Interests
 
-- **Canoe Polo** - National Division 3
-- **Football** - Spectating
-- **Reading** - Fiction
+- **Canoe Polo** - A team water sport where I compete in National Division 3
+- **Football** - Spectating rather than playing
+- **Reading** - Fiction - Fantasy / Historical
