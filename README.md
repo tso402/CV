@@ -1,6 +1,8 @@
 ## James Ault
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am an aspiring Junior Full Stack Web Developer in the process of transistioning from my previous role as an Oracle Functional Analyst. To achieve this I am currently attending the Makers Academy Coding Bootcamp after which I expect to be a fulling capable Web Developer. 
+
+I am looking for a role where I can apply my new skills and continue to develop in a supportive and positive environment.
 
 ## Skills
 
@@ -23,7 +25,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (January 2019 - April 2019)
+#### Makers Academy (February 2019 - April 2019)
+
+Intensive 12 Week Coding Bootcamp
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -36,7 +40,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### University of Southampton (September 2008 - July 2012)
 
-- Chemistry, specialising in Nano Particle Deposition Methods
+- Chemistry, specialising in Nano Particle Deposition Techniques
 - Bsc 2:1
 - Southampton University Canoe Polo - President and 1st Team Captain
 
